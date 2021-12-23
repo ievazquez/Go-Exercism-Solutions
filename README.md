@@ -1,2 +1,2 @@
 # Go-Exercism-Solutions
-My solutions to Go Exercises on Exercism
+A repo to store my solutions to Exercism's Go learning track
